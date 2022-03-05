@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## 欢迎来到 code404-sys's 博客
 
-You can use the [editor on GitHub](https://github.com/code404-sys/code404-sys.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+这里我将推出一些代码，美图
 
 ### Markdown
 
