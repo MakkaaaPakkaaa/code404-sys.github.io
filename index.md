@@ -2,7 +2,7 @@
 
 这里我将推出一些代码
 
-![RUNOOB 图标](code404-sys.github.io/psc.jpg)
+![高木同学](code404-sys.github.io/psc.jpg)
 
 ### Github的基础用法
 
