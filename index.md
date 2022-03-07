@@ -2,7 +2,7 @@
 
 这里我将推出一些代码
 
-![高木同学](code404-sys.github.io/pic.jpeg)
+![高木同学](https://i0.hdslb.com/bfs/article/ccabd33d437eaa36974d24ebcb643dd7b2ff061c.jpg)
 
 ### Github的基础用法
 
