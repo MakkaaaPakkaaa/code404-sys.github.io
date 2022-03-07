@@ -4,6 +4,11 @@
 
 ![高木同学](https://i0.hdslb.com/bfs/article/ccabd33d437eaa36974d24ebcb643dd7b2ff061c.jpg)
 
+<audio id="audio" controls="" preload="none">
+      <source id="mp3" src="https://github.com/code404-sys/code404-sys.github.io/blob/main/music1.mp3">
+      </audio>
+
+
 ### Github的基础用法
 
 #### 创建新仓库
